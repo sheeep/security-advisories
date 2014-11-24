@@ -1,0 +1,11 @@
+title:     XSS vulnerability and potential directory traversal vulnerability
+link:      https://contao.org/en/news/contao-3_3_7.html
+cve:       ~
+branches:
+    3.2.x:
+        time:     2014-10-24 10:12:00
+        versions: [<3.2.16]
+    3.3.x:
+        time:     2014-10-24 10:12:00
+        versions: [>=3.2,<3.3.7]
+reference: composer://contao/core
